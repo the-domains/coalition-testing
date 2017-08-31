@@ -19,7 +19,32 @@ colors:
 name: coalition-testing
 layout_spectrum: 0.1803131466731429
 typography_spectrum: 0.08014019043184817
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff569fc6-bba6-4c9f-bcea-7c3716ad5ca5.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff569fc6-bba6-4c9f-bcea-7c3716ad5ca5.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: Coalition testing
 description: Under Construction
 github: true
