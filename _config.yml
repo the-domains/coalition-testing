@@ -1,0 +1,35 @@
+color:
+  brandColors:
+    - '#010101'
+    - '#003E49'
+    - '#045B6D'
+    - '#172830'
+    - '#2AB3F1'
+  brandStrength: 0.9586662820074707
+  lightness: 0.7328828985337168
+  saturation: 0.08361940132454038
+  rhythmicContrast: 0.8371392739936709
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: coalition-testing
+layout_spectrum: 0.1803131466731429
+typography_spectrum: 0.08014019043184817
+content: []
+title: Coalition testing
+description: Under Construction
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f32096e6-71f5-4676-989d-b9112c53c1a3.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/86d30a22-c1dc-4d28-a8b8-0ee6459c604c.png
+content_rating:
+  adult: false
+author:
+  email: mr.lyder@hotmail.com
+  url: 'https://thegrid.ai/coalition-testing/'
+  name: Kim A.L Evensen
